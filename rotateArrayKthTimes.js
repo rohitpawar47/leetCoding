@@ -1,4 +1,4 @@
-// Rotate nums.
+// Rotate array Kth times.
 console.log(`_Rotate array_(190 ms)`);
 
 
